@@ -48,3 +48,9 @@ form {
   button:hover {
     background-color: #aaf1d6;
   }
+
+  ::placeholder {
+    color: white;
+    opacity: 0.3;
+    font-size: 12px;
+  }
